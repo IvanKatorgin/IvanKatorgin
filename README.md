@@ -47,6 +47,8 @@
 
 ---
 ### Контакты:
+https://taplink.cc/ivankatorgin
+https://t.me/IvanKatorgin
 
 ---
 ### :fire: My Stats :
