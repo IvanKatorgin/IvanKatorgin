@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3FzdjltZ2V4ZjVmZTEycmpzcThicmQ1bGN5ZDl6N3Z1YnBodTU5dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/S8TzUKzRPjepzJx37U/giphy.gif" width="200"/>
 
-  # Привет! 👋 Меня зовут Иван!
+  # Привет! 👋 Меня зовут Иван Каторгин!
   ## Я data scientist, аналитик
 </div>
 
