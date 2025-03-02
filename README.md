@@ -35,7 +35,14 @@
 </div>
 
 ---
-### Выполненные проекты:
+### Примеры выполненных проектов:
+- Участие в хакатонах и воркшопах: https://github.com/IvanKatorgin/Workshops-and-hackathons
+- Итоговые проекты по модулю "Data Science медицине": https://github.com/IvanKatorgin/DS-in-medicine
+- Итоговые проекты по модулю "Компьютерное зрение" https://github.com/IvanKatorgin/Computer-vision
+- Итоговые проекты по модулю "Временные ряды" https://github.com/IvanKatorgin/Time-series
+- Итоговые проекты по модулю "Рекомендательные системы": https://github.com/IvanKatorgin/Recommender-systems
+- Работа с признаками и построение моделей: https://github.com/IvanKatorgin/Feature-Engineering
+- А также другие проекты в моих репозиториях
 
 ---
 ### Образование:
