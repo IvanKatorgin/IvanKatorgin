@@ -1,8 +1,8 @@
 <div id="header" align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3FzdjltZ2V4ZjVmZTEycmpzcThicmQ1bGN5ZDl6N3Z1YnBodTU5dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/S8TzUKzRPjepzJx37U/giphy.gif" width="200"/>
 
-  ## Привет! 👋 Меня зовут Иван!
-Я data scientist, аналитик
+  # Привет! 👋 Меня зовут Иван!
+  ## Я data scientist, аналитик
 </div>
 
 ---
@@ -16,7 +16,7 @@
 -	Построение дашбордов и визуализаций в Tableau, Power BI, Yandex DataLens.
 
 ---
-### :hammer_and_wrench: Languages and Tools:
+### :hammer_and_wrench: Tech Stack:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="50" height="50"/>&nbsp;
@@ -48,7 +48,7 @@
 ### Образование:
 
 ---
-### :man_technologist: Обо мне:
+### Обо мне:
 Случайно открыв для себя Data Science и BI-аналитику в 2023 году, увлекся этим направлением и решил полностью изменить мою профессиональную жизнь, начав обучение в Нетологии.
 Мне нравится работать с данными, проверять гипотезы, строить ML-модели и рекомендательные системы. В своей практической деятельности использую Python и SQL. При проведении А/В-тестов, а также на различных этапах анализа данных применяю математическую статистику. Знаком с нейросетями, люблю строить интерактивные дашборды в Tableau, либо в Power BI.
 
@@ -67,5 +67,5 @@
 <div>
 
 ---
-### :fire: My Stats :
+### :fire: Статистика GitHub:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=IvanKatorgin&theme=github-dark&locale=ru&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
