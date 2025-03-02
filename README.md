@@ -54,12 +54,17 @@
 
 ---
 ### Контакты:
-<a href="https://t.me/IvanKatorgin">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" width="200" height="50" alt="Telegram Badge"/> 
+<div>
+  <div>
+    <a href="https://t.me/IvanKatorgin">
+      <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" width="200" height="50" alt="Telegram Badge"/>
+  <div>
 
-
-<a href="https://taplink.cc/ivankatorgin">
-    <img src="https://img.shields.io/badge/Taplink-black?style=for-the-badge&logo=Taplink&logoColor=white" width="200" height="50" alt="Taplink Badge"/>
+  <div>
+    <a href="https://taplink.cc/ivankatorgin">
+      <img src="https://img.shields.io/badge/Taplink-black?style=for-the-badge&logo=Taplink&logoColor=white" width="200" height="50" alt="Taplink Badge"/>
+  <div>
+<div>
 
 ---
 ### :fire: My Stats :
