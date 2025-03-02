@@ -46,11 +46,37 @@
 
 ---
 ### Образование:
+- Основное высшее образование: https://github.com/IvanKatorgin/IvanKatorgin/blob/main/Диплом%20РГУ%20нефти%20и%20газа.pdf
+- Дополнительное профессиональное образование по экономике: https://github.com/IvanKatorgin/IvanKatorgin/blob/main/Диплом%20ИПРКПТЭК.pdf
+- Дополнительное профессиональное образование по менеджменту: https://github.com/IvanKatorgin/IvanKatorgin/blob/main/Диплом%20ЛИНК-а.pdf
+
+---
+### Сетрификаты Нетологии:
+
+Data Scientist:
+- https://github.com/IvanKatorgin/IvanKatorgin/blob/main/1.%20Основы%20аналитики%20и%20аналитическое%20мышление.pdf
+- https://github.com/IvanKatorgin/IvanKatorgin/blob/main/2.%20Основы%20статистики.pdf
+- https://github.com/IvanKatorgin/IvanKatorgin/blob/main/3.%20DataVizArt%20-%20Основы%20визуализации%20данных.pdf
+- https://github.com/IvanKatorgin/IvanKatorgin/blob/main/4.%20SQL%20и%20получение%20данных.pdf
+- https://github.com/IvanKatorgin/IvanKatorgin/blob/main/5.%20Основы%20Python.pdf
+- https://github.com/IvanKatorgin/IvanKatorgin/blob/main/6.%20Библиотеки%20Python%20для%20анализа%20данных.pdf
+- https://github.com/IvanKatorgin/IvanKatorgin/blob/main/7.%20Статистика%20в%20Python.pdf
+- https://github.com/IvanKatorgin/IvanKatorgin/blob/main/8.%20Big%20Data%20с%20нуля.pdf
+- https://github.com/IvanKatorgin/IvanKatorgin/blob/main/9.%20Менеджмент%20дата-проектов.pdf
+- https://github.com/IvanKatorgin/IvanKatorgin/blob/main/10.%20Математика%20для%20DS.pdf
+- https://github.com/IvanKatorgin/IvanKatorgin/blob/main/11.%20Работа%20с%20признаками%20и%20построение%20моделей.pdf
+
+Другие разные курсы Нетологии:
+- https://github.com/IvanKatorgin/IvanKatorgin/blob/main/Визуализация%20данных%20-%20от%20скучных%20графиков%20к%20интерактивным%20дашбордам.pdf
+- https://github.com/IvanKatorgin/IvanKatorgin/blob/main/Основы%20Python%20-%20создаем%20телеграм-бота.pdf
+- https://github.com/IvanKatorgin/IvanKatorgin/blob/main/Аспирантская%20школа.pdf
 
 ---
 ### Обо мне:
 Случайно открыв для себя Data Science и BI-аналитику в 2023 году, увлекся этим направлением и решил полностью изменить мою профессиональную жизнь, начав обучение в Нетологии.
 Мне нравится работать с данными, проверять гипотезы, строить ML-модели и рекомендательные системы. В своей практической деятельности использую Python и SQL. При проведении А/В-тестов, а также на различных этапах анализа данных применяю математическую статистику. Знаком с нейросетями, люблю строить интерактивные дашборды в Tableau, либо в Power BI.
+
+Мое резюме можно посмотреть тут: https://github.com/IvanKatorgin/IvanKatorgin/blob/main/Резюме%20Иван%20Каторгин_Data%20scientist.pdf
 
 ---
 ### Контакты:
