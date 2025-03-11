@@ -38,11 +38,11 @@
 ### Примеры выполненных проектов:
 - Участие в хакатонах и воркшопах: https://github.com/IvanKatorgin/Workshops-and-hackathons
 - Итоговые проекты по модулю "Data Science в медицине": https://github.com/IvanKatorgin/DS-in-medicine
-- Итоговые проекты по модулю "Компьютерное зрение" https://github.com/IvanKatorgin/Computer-vision
-- Итоговые проекты по модулю "Временные ряды" https://github.com/IvanKatorgin/Time-series
+- Итоговые проекты по модулю "Компьютерное зрение": https://github.com/IvanKatorgin/Computer-vision
+- Итоговые проекты по модулю "Временные ряды": https://github.com/IvanKatorgin/Time-series
 - Итоговые проекты по модулю "Рекомендательные системы": https://github.com/IvanKatorgin/Recommender-systems
 - Работа с признаками и построение моделей: https://github.com/IvanKatorgin/Feature-Engineering
-- А также другие проекты можно найти в моих репозиториях
+- А также другие проекты можно найти в моих репозиториях.
 
 ---
 ### Образование:
@@ -53,7 +53,7 @@
 ---
 ### Сетрификаты Нетологии:
 
-Data Scientist:
+Модули курса Data Scientist:
 - https://github.com/IvanKatorgin/IvanKatorgin/blob/main/1.%20Основы%20аналитики%20и%20аналитическое%20мышление.pdf
 - https://github.com/IvanKatorgin/IvanKatorgin/blob/main/2.%20Основы%20статистики.pdf
 - https://github.com/IvanKatorgin/IvanKatorgin/blob/main/3.%20DataVizArt%20-%20Основы%20визуализации%20данных.pdf
