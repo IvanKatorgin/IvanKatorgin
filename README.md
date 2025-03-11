@@ -78,8 +78,6 @@ Data Scientist:
 
 Мое резюме можно посмотреть тут: https://github.com/IvanKatorgin/IvanKatorgin/blob/main/Резюме%20Иван%20Каторгин_Data%20scientist_основное.pdf
 
-Мое резюме на hh.ru: https://izhevsk.hh.ru/applicant/resumes/view?resume=d044bf3eff0e876dc70039ed1f57354c7a5448
-
 ---
 ### Контакты:
 <div>
