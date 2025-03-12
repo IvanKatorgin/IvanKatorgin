@@ -91,7 +91,3 @@
       <img src="https://img.shields.io/badge/Taplink-black?style=for-the-badge&logo=Taplink&logoColor=white" width="200" height="50" alt="Taplink Badge"/>
   <div>
 <div>
-
----
-### :fire: Статистика GitHub:
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=IvanKatorgin&theme=github-dark&locale=ru&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
