@@ -54,7 +54,7 @@
 ### Сетрификаты Нетологии:
 
 Модули курса Data Scientist:
-- https://github.com/IvanKatorgin/IvanKatorgin/blob/main/1.%20Основы%20аналитики%20и%20аналитическое%20мышление.pdf
+- [Основы аналитики и аналитическое мышление] (https://github.com/IvanKatorgin/IvanKatorgin/blob/main/1.%20Основы%20аналитики%20и%20аналитическое%20мышление.pdf)
 - https://github.com/IvanKatorgin/IvanKatorgin/blob/main/2.%20Основы%20статистики.pdf
 - https://github.com/IvanKatorgin/IvanKatorgin/blob/main/3.%20DataVizArt%20-%20Основы%20визуализации%20данных.pdf
 - https://github.com/IvanKatorgin/IvanKatorgin/blob/main/4.%20SQL%20и%20получение%20данных.pdf
