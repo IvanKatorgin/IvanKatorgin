@@ -78,6 +78,7 @@
 Мне нравится работать с данными, проверять гипотезы, строить ML-модели и рекомендательные системы. В своей практической деятельности использую Python и SQL. При проведении А/В-тестов, а также на различных этапах анализа данных применяю математическую статистику. Знаком с нейросетями, люблю строить интерактивные дашборды в Tableau, либо в Power BI.
 
 [Мое резюме](https://github.com/IvanKatorgin/IvanKatorgin/blob/main/Резюме%20Иван%20Каторгин_Data%20scientist_основное.pdf)
+[My resume](https://github.com/IvanKatorgin/IvanKatorgin/blob/main/Resume%20Ivan%20Katorgin_Data%20scientist_main.pdf)
 
 ---
 ### Контакты:
