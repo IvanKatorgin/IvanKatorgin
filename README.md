@@ -29,15 +29,17 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original-wordmark.svg" title="Keras" alt="Keras" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" title="Tensorflow" alt="Tensorflow" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg"  title="OpenCV" alt="OpenCV" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg" title="Mongodb" alt="Mongodb" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="Mongodb" alt="Mongodb" width="50" height="50"/>&nbsp;
-</div>
+  </div>
 
 ---
 ### Примеры выполненных проектов:
 - [Участие в хакатонах и воркшопах](https://github.com/IvanKatorgin/Workshops-and-hackathons)
 - [Итоговые проекты по модулю "Data Science в медицине"](https://github.com/IvanKatorgin/DS-in-medicine)
+- [Итоговые проекты по модулю "Deep Learning"](https://github.com/IvanKatorgin/Deep-Learning)
 - [Итоговые проекты по модулю "Обработка естественного языка"](https://github.com/IvanKatorgin/NLP)
 - [Итоговые проекты по модулю "Компьютерное зрение"](https://github.com/IvanKatorgin/Computer-vision)
 - [Итоговые проекты по модулю "Временные ряды"](https://github.com/IvanKatorgin/Time-series)
