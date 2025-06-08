@@ -45,6 +45,7 @@
 - [Итоговые проекты по модулю "Временные ряды"](https://github.com/IvanKatorgin/Time-series)
 - [Итоговые проекты по модулю "Рекомендательные системы"](https://github.com/IvanKatorgin/Recommender-systems)
 - [Работа с признаками и построение моделей](https://github.com/IvanKatorgin/Feature-Engineering)
+- [SQL и получение данных](https://github.com/IvanKatorgin/SQL)
 - А также другие проекты можно найти в моих репозиториях.
 
 ---
