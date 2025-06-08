@@ -36,7 +36,7 @@
   </div>
 
 ---
-### Примеры выполненных проектов:
+### Примеры выполненных проектов DS:
 - [Участие в хакатонах и воркшопах](https://github.com/IvanKatorgin/Workshops-and-hackathons)
 - [Итоговые проекты по модулю "Data Science в медицине"](https://github.com/IvanKatorgin/DS-in-medicine)
 - [Итоговые проекты по модулю "Deep Learning"](https://github.com/IvanKatorgin/Deep-Learning)
@@ -49,6 +49,10 @@
 - А также другие проекты можно найти в моих репозиториях.
 
 ---
+### Дашборды
+- [Tableau](https://public.tableau.com/app/profile/ivan.katorgin/vizzes)
+
+---
 ### Образование:
 - [Основное высшее образование](https://github.com/IvanKatorgin/IvanKatorgin/blob/main/Диплом%20РГУ%20нефти%20и%20газа.pdf)
 - [Дополнительное профессиональное образование по экономике](https://github.com/IvanKatorgin/IvanKatorgin/blob/main/Диплом%20ИПРКПТЭК.pdf)
@@ -56,7 +60,6 @@
 
 ---
 ### Сетрификаты Нетологии:
-
 Модули курса Data Scientist:
 - [Основы аналитики и аналитическое мышление](https://github.com/IvanKatorgin/IvanKatorgin/blob/main/1.%20Основы%20аналитики%20и%20аналитическое%20мышление.pdf)
 - [Основы статистики](https://github.com/IvanKatorgin/IvanKatorgin/blob/main/2.%20Основы%20статистики.pdf)
