@@ -37,6 +37,7 @@
 
 ---
 ### Примеры выполненных проектов DS:
+- [Дипломная работа обучения по профессии "Data Scientist: расширенный курс"](https://github.com/IvanKatorgin/Diplom)
 - [Участие в хакатонах и воркшопах](https://github.com/IvanKatorgin/Workshops-and-hackathons)
 - [Итоговые проекты по модулю "Data Science в медицине"](https://github.com/IvanKatorgin/DS-in-medicine)
 - [Итоговые проекты по модулю "Deep Learning"](https://github.com/IvanKatorgin/Deep-Learning)
