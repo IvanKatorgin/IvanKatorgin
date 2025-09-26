@@ -73,7 +73,8 @@
 - [Менеджмент дата проектов](https://github.com/IvanKatorgin/IvanKatorgin/blob/main/9.%20Менеджмент%20дата-проектов.pdf)
 - [Математика для Data Science](https://github.com/IvanKatorgin/IvanKatorgin/blob/main/10.%20Математика%20для%20DS.pdf)
 - [Работа с признаками и построение моделей](https://github.com/IvanKatorgin/IvanKatorgin/blob/main/11.%20Работа%20с%20признаками%20и%20построение%20моделей.pdf)
-- [Свидетельство об окончании обучения](https://github.com/IvanKatorgin/IvanKatorgin/blob/main/12.%20Свидетельство%20об%20окончании%20обучения.pdf)
+- [Data Science в медицине](https://github.com/IvanKatorgin/IvanKatorgin/blob/main/12.%20Data%20Science%20%D0%B2%20%D0%BC%D0%B5%D0%B4%D0%B8%D1%86%D0%B8%D0%BD%D0%B5.pdf)
+- [Свидетельство об окончании обучения](https://github.com/IvanKatorgin/IvanKatorgin/blob/main/13.%20%D0%A1%D0%B2%D0%B8%D0%B4%D0%B5%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE%20%D0%BE%D0%B1%20%D0%BE%D0%BA%D0%BE%D0%BD%D1%87%D0%B0%D0%BD%D0%B8%D0%B8%20%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D1%8F.pdf)
 
 Другие разные курсы Нетологии:
 - [Визуализация данных: от скучных графиков к интерактивным дашбордам](https://github.com/IvanKatorgin/IvanKatorgin/blob/main/Визуализация%20данных%20-%20от%20скучных%20графиков%20к%20интерактивным%20дашбордам.pdf)
