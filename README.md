@@ -56,12 +56,14 @@
 ---
 ### Образование:
 - [Основное высшее образование](https://github.com/IvanKatorgin/IvanKatorgin/blob/main/Диплом%20РГУ%20нефти%20и%20газа.pdf)
+- [Диплом Data Scientist в Нетологии](https://github.com/IvanKatorgin/IvanKatorgin/blob/main/Диплом%20Нетология%20Data%20Scientist.pdf)
 - [Дополнительное профессиональное образование по экономике](https://github.com/IvanKatorgin/IvanKatorgin/blob/main/Диплом%20ИПРКПТЭК.pdf)
 - [Дополнительное профессиональное образование по менеджменту](https://github.com/IvanKatorgin/IvanKatorgin/blob/main/Диплом%20ЛИНК-а.pdf)
 
 ---
 ### Сетрификаты Нетологии:
-Модули курса Data Scientist:
+Data Scientist:
+- [Свидетельство об окончании обучения](https://github.com/IvanKatorgin/IvanKatorgin/blob/main/13.%20%D0%A1%D0%B2%D0%B8%D0%B4%D0%B5%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE%20%D0%BE%D0%B1%20%D0%BE%D0%BA%D0%BE%D0%BD%D1%87%D0%B0%D0%BD%D0%B8%D0%B8%20%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D1%8F.pdf)
 - [Основы аналитики и аналитическое мышление](https://github.com/IvanKatorgin/IvanKatorgin/blob/main/1.%20Основы%20аналитики%20и%20аналитическое%20мышление.pdf)
 - [Основы статистики](https://github.com/IvanKatorgin/IvanKatorgin/blob/main/2.%20Основы%20статистики.pdf)
 - [Основы визуализации данных](https://github.com/IvanKatorgin/IvanKatorgin/blob/main/3.%20DataVizArt%20-%20Основы%20визуализации%20данных.pdf)
@@ -74,7 +76,6 @@
 - [Математика для Data Science](https://github.com/IvanKatorgin/IvanKatorgin/blob/main/10.%20Математика%20для%20DS.pdf)
 - [Работа с признаками и построение моделей](https://github.com/IvanKatorgin/IvanKatorgin/blob/main/11.%20Работа%20с%20признаками%20и%20построение%20моделей.pdf)
 - [Data Science в медицине](https://github.com/IvanKatorgin/IvanKatorgin/blob/main/12.%20Data%20Science%20%D0%B2%20%D0%BC%D0%B5%D0%B4%D0%B8%D1%86%D0%B8%D0%BD%D0%B5.pdf)
-- [Свидетельство об окончании обучения](https://github.com/IvanKatorgin/IvanKatorgin/blob/main/13.%20%D0%A1%D0%B2%D0%B8%D0%B4%D0%B5%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE%20%D0%BE%D0%B1%20%D0%BE%D0%BA%D0%BE%D0%BD%D1%87%D0%B0%D0%BD%D0%B8%D0%B8%20%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D1%8F.pdf)
 
 Другие разные курсы Нетологии:
 - [Визуализация данных: от скучных графиков к интерактивным дашбордам](https://github.com/IvanKatorgin/IvanKatorgin/blob/main/Визуализация%20данных%20-%20от%20скучных%20графиков%20к%20интерактивным%20дашбордам.pdf)
