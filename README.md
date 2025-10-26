@@ -61,7 +61,7 @@
 - [Дополнительное профессиональное образование по менеджменту](https://github.com/IvanKatorgin/IvanKatorgin/blob/main/Диплом%20ЛИНК-а.pdf)
 
 ---
-### Сетрификаты Нетологии:
+### Сертификаты Нетологии:
 Data Scientist:
 - [Свидетельство об окончании обучения](https://github.com/IvanKatorgin/IvanKatorgin/blob/main/13.%20%D0%A1%D0%B2%D0%B8%D0%B4%D0%B5%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE%20%D0%BE%D0%B1%20%D0%BE%D0%BA%D0%BE%D0%BD%D1%87%D0%B0%D0%BD%D0%B8%D0%B8%20%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D1%8F.pdf)
 - [Основы аналитики и аналитическое мышление](https://github.com/IvanKatorgin/IvanKatorgin/blob/main/1.%20Основы%20аналитики%20и%20аналитическое%20мышление.pdf)
@@ -104,3 +104,8 @@ Data Scientist:
       <img src="https://img.shields.io/badge/Taplink-black?style=for-the-badge&logo=Taplink&logoColor=white" width="200" height="50" alt="Taplink Badge"/>
   <div>
 <div>
+
+---
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IvanKatorgin&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanKatorgin&layout=compact&theme=radical)
