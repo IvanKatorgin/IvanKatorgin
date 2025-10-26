@@ -57,7 +57,7 @@
 <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda"/>
 <br>
 
-<div>
+</div>
 
 ---
 ### 🚀 Примеры выполненных проектов DS:
