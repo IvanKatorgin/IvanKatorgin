@@ -83,10 +83,10 @@
 
 ---
 ### 🎓 Образование
-- [Основное высшее образование](https://github.com/IvanKatorgin/IvanKatorgin/blob/main/Диплом%20РГУ%20нефти%20и%20газа.pdf)
-- [Диплом Data Scientist в Нетологии](https://github.com/IvanKatorgin/IvanKatorgin/blob/main/Диплом%20Нетология%20Data%20Scientist.pdf)
-- [Дополнительное профессиональное образование по экономике](https://github.com/IvanKatorgin/IvanKatorgin/blob/main/Диплом%20ИПРКПТЭК.pdf)
-- [Дополнительное профессиональное образование по менеджменту](https://github.com/IvanKatorgin/IvanKatorgin/blob/main/Диплом%20ЛИНК-а.pdf)
+- [Диплом Data Scientist, Нетология, 2025](https://github.com/IvanKatorgin/IvanKatorgin/blob/main/Диплом%20Нетология%20Data%20Scientist.pdf)
+- [Дополнительное профессиональное образование по экономике, 2013](https://github.com/IvanKatorgin/IvanKatorgin/blob/main/Диплом%20ИПРКПТЭК.pdf)
+- [Дополнительное профессиональное образование по менеджменту, 2013](https://github.com/IvanKatorgin/IvanKatorgin/blob/main/Диплом%20ЛИНК-а.pdf)
+- [Основное высшее образование - геология нефти и газа, 2006](https://github.com/IvanKatorgin/IvanKatorgin/blob/main/Диплом%20РГУ%20нефти%20и%20газа.pdf)
 
 ---
 ### 📜 Сертификаты Нетологии
@@ -122,9 +122,9 @@ Data Scientist с фокусом на построении нейронных с
 
 Открыт к сотрудничеству над интересными проектами в области AI/ML!
 
-[Мое резюме (русское)](https://github.com/IvanKatorgin/IvanKatorgin/blob/main/Резюме%20Иван%20Каторгин_Data%20scientist_основное.pdf)
+[Мое резюме (русское)](https://github.com/IvanKatorgin/IvanKatorgin/blob/main/Иван%20Каторгин%20-%20Data%20scientist%2C%20аналитик.pdf)
 
-[My resume (english)](https://github.com/IvanKatorgin/IvanKatorgin/blob/main/Resume%20Ivan%20Katorgin_Data%20scientist_main.pdf)
+[My resume (english)](https://github.com/IvanKatorgin/IvanKatorgin/blob/main/Ivan%20Katorgin%20-%20Data%20scientist%2C%20Analyst.pdf)
 
 ---
 ### ⏱️ Текущая активность
