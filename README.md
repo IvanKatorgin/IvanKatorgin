@@ -31,6 +31,7 @@
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
 <img src="https://img.shields.io/badge/SciKit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
+<img src="https://img.shields.io/badge/Librosa-%230B3D91.svg?style=for-the-badge&logo=librosa&logoColor=white" alt="Librosa"/>
 <br>
 
 **Deep Learning & Computer Vision**
