@@ -120,9 +120,9 @@ Data Scientist с фокусом на построении нейронных с
 
 Открыт к сотрудничеству над интересными проектами в области AI/ML
 
-[Мое резюме (русское)](https://github.com/IvanKatorgin/IvanKatorgin/blob/main/Иван%20Каторгин%20-%20Data%20scientist%2C%20аналитик.pdf)
+[Мое резюме (русское)](https://github.com/IvanKatorgin/IvanKatorgin/blob/main/Иван%20Каторгин%20-%20Эксперт%20по%20разработке%20месторождений%2C%20Domain%20Data%20Scientist%20(Oil%20%26%20Gas).pdf)
 
-[My resume (english)](https://github.com/IvanKatorgin/IvanKatorgin/blob/main/Ivan%20Katorgin%20-%20Data%20scientist%2C%20Analyst.pdf)
+[My resume (english)](https://github.com/IvanKatorgin/IvanKatorgin/blob/main/Ivan%20Katorgin%20-%20Field%20Development%20Expert%2C%20Domain%20Data%20Scientist%20(Oil%20%26%20Gas).pdf)
 
 ---
 ### ⏱️ Текущая активность
