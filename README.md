@@ -137,7 +137,6 @@ Data Scientist с фокусом на построении нейронных с
 - 🎯 Готов к фриланс-проектам
 
 ### 📞 Контакты
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ivankatorgin)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/IvanKatorgin)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ivan.katorgin@gmail.com)
 [![Taplink](https://img.shields.io/badge/Taplink-black?style=for-the-badge&logo=Taplink&logoColor=white)](https://taplink.cc/ivankatorgin)
