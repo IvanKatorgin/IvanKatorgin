@@ -143,3 +143,4 @@ Data Scientist с фокусом на построении нейронных с
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/IvanKatorgin)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ivan.katorgin@gmail.com)
 [![Taplink](https://img.shields.io/badge/Taplink-black?style=for-the-badge&logo=Taplink&logoColor=white)](https://taplink.cc/ivankatorgin)
+[<img src="https://maxicons.ru/icons/MAX.svg" alt="Иконка MAX" width="28" height="28">](https://max.ru/u/f9LHodD0cOLVihd9KtJeNoMPyYYDkZUijqSn_qg8nDiXdxajFYR_mhjondg)
